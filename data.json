@@ -1,0 +1,6 @@
+{
+  "journalRootFolder": "journal",
+  "dailyTemplate": "---\ntype: daily\nsprint: {{sprint}}\n---\n## Journal\n- [ ] \n## Thoughts\n- \n",
+  "taskTemplate": "---\ntype: task\nproject:\nsprint: {{sprint}}\n---\n## Context\n\n## Goals\n- [ ] \n## Journal\n- \n## Thoughts\n- \n",
+  "language": "en"
+}
